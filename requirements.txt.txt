@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+gradio
+langchain
+langgraph
+langchain-core
+langchain-community
+langchain-groq
+python-dotenv
+faiss-cpu
