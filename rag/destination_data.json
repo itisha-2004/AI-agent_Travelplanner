@@ -1,0 +1,242 @@
+[
+  {
+    "title": "Agra",
+    "content": "Home to the iconic Taj Mahal and rich Mughal heritage."
+  },
+  {
+    "title": "Jaipur",
+    "content": "The Pink City known for forts, palaces, and Rajasthani culture."
+  },
+  {
+    "title": "Udaipur",
+    "content": "Romantic city of lakes and royal palaces in Rajasthan."
+  },
+  {
+    "title": "Delhi",
+    "content": "Capital city with historical landmarks and bustling markets."
+  },
+  {
+    "title": "Mumbai",
+    "content": "India financial hub with Bollywood, beaches, and nightlife."
+  },
+  {
+    "title": "Bangalore",
+    "content": "Tech city with parks, cafes, and pleasant weather."
+  },
+  {
+    "title": "Hyderabad",
+    "content": "City of pearls, biryani, and the Charminar."
+  },
+  {
+    "title": "Chennai",
+    "content": "Cultural capital of South India with temples and beaches."
+  },
+  {
+    "title": "Kolkata",
+    "content": "City of Joy with colonial charm, art, and culture."
+  },
+  {
+    "title": "Varanasi",
+    "content": "Spiritual city on the Ganges with ancient ghats and rituals."
+  },
+  {
+    "title": "Leh-Ladakh",
+    "content": "Cold desert, monasteries, and dramatic Himalayan landscapes."
+  },
+  {
+    "title": "Manali",
+    "content": "Popular hill station with rivers and snow-capped mountains."
+  },
+  {
+    "title": "Shimla",
+    "content": "Colonial hill town with scenic views and toy train."
+  },
+  {
+    "title": "Goa",
+    "content": "Famous for its beaches, nightlife, and Portuguese heritage."
+  },
+  {
+    "title": "Pondicherry",
+    "content": "French colonial town with cafes, beaches, and serenity."
+  },
+  {
+    "title": "Mysore",
+    "content": "Royal heritage city with palaces and Dasara festivities."
+  },
+  {
+    "title": "Amritsar",
+    "content": "Home to the Golden Temple and rich Sikh culture."
+  },
+  {
+    "title": "Rishikesh",
+    "content": "Yoga capital with river rafting and Ganga aarti."
+  },
+  {
+    "title": "Darjeeling",
+    "content": "Tea gardens, Himalayan views, and toy train rides."
+  },
+  {
+    "title": "Coorg",
+    "content": "Scenic coffee plantations and misty hills in Karnataka."
+  },
+  {
+    "title": "Paris",
+    "content": "Romantic city known for the Eiffel Tower, cafes, and art."
+  },
+  {
+    "title": "London",
+    "content": "Historic landmarks, museums, and vibrant culture."
+  },
+  {
+    "title": "New York",
+    "content": "Iconic skyscrapers, Broadway, and Central Park."
+  },
+  {
+    "title": "Tokyo",
+    "content": "High-tech meets tradition with temples and neon lights."
+  },
+  {
+    "title": "Rome",
+    "content": "Ancient ruins, Vatican City, and Italian cuisine."
+  },
+  {
+    "title": "Barcelona",
+    "content": "Modernist architecture, beaches, and lively atmosphere."
+  },
+  {
+    "title": "Dubai",
+    "content": "Luxury shopping, skyscrapers, and desert safaris."
+  },
+  {
+    "title": "Bangkok",
+    "content": "Street food, temples, and floating markets."
+  },
+  {
+    "title": "Bali",
+    "content": "Tropical paradise with temples, rice terraces, and beaches."
+  },
+  {
+    "title": "Singapore",
+    "content": "Clean, green city with Marina Bay Sands and Sentosa."
+  },
+  {
+    "title": "Istanbul",
+    "content": "Where East meets West, mosques, and bazaars."
+  },
+  {
+    "title": "Cape Town",
+    "content": "Table Mountain, beaches, and diverse culture."
+  },
+  {
+    "title": "Sydney",
+    "content": "Opera House, Bondi Beach, and laid-back lifestyle."
+  },
+  {
+    "title": "Amsterdam",
+    "content": "Canals, cycling, tulips, and Van Gogh Museum."
+  },
+  {
+    "title": "Vienna",
+    "content": "Classical music, architecture, and coffee houses."
+  },
+  {
+    "title": "Zurich",
+    "content": "Swiss Alps views, clean streets, and lakes."
+  },
+  {
+    "title": "Toronto",
+    "content": "Multicultural city with CN Tower and nearby Niagara Falls."
+  },
+  {
+    "title": "Reykjavik",
+    "content": "Gateway to Iceland’s glaciers and Northern Lights."
+  },
+  {
+    "title": "Prague",
+    "content": "Medieval architecture, bridges, and historic charm."
+  },
+  {
+    "title": "Seoul",
+    "content": "Trendy city with palaces, K-pop, and street food."
+  },
+  {
+    "title": "Ranthambore",
+    "content": "A famous national park in Rajasthan known for tigers and wildlife safaris."
+  },
+  {
+    "title": "Kaziranga",
+    "content": "A UNESCO World Heritage site in Assam known for one-horned rhinoceroses."
+  },
+  {
+    "title": "Puri",
+    "content": "A coastal city in Odisha known for Jagannath Temple and beaches."
+  },
+  {
+    "title": "Rameswaram",
+    "content": "A sacred town in Tamil Nadu known for the Ramanathaswamy Temple and pilgrimage importance."
+  },
+  {
+    "title": "Tawang",
+    "content": "A picturesque town in Arunachal Pradesh known for its monastery and Himalayan views."
+  },
+  {
+    "title": "Ziro Valley",
+    "content": "Located in Arunachal Pradesh, it is famous for lush landscapes and tribal culture."
+  },
+  {
+    "title": "Bundi",
+    "content": "A charming town in Rajasthan known for its palaces, forts, and stepwells."
+  },
+  {
+    "title": "Panchgani",
+    "content": "A scenic hill station in Maharashtra popular for its strawberry farms and table land."
+  },
+  {
+    "title": "Daman and Diu",
+    "content": "A coastal union territory known for Portuguese heritage and calm beaches."
+  },
+  {
+    "title": "Hampi",
+    "content": "A UNESCO World Heritage Site in Karnataka with ancient ruins of the Vijayanagara Empire."
+  },
+  {
+    "title": "Spiti Valley",
+    "content": "A cold desert mountain valley in Himachal Pradesh ideal for adventure seekers."
+  },
+  {
+    "title": "Kanha National Park",
+    "content": "One of India's best tiger reserves located in Madhya Pradesh."
+  },
+  {
+    "title": "Chilika Lake",
+    "content": "Asia’s largest brackish water lagoon in Odisha, a bird watcher's paradise."
+  },
+  {
+    "title": "Gokarna",
+    "content": "A serene beach town in Karnataka known for pilgrimage and quiet shores."
+  },
+  {
+    "title": "Orchha",
+    "content": "A historic town in Madhya Pradesh with palaces, temples, and forts."
+  },
+  {
+    "title": "Dharamshala",
+    "content": "The Dalai Lama’s residence and a spiritual hill town in Himachal Pradesh."
+  },
+  {
+    "title": "Kumarakom",
+    "content": "A village in Kerala famous for backwaters, bird sanctuary, and houseboats."
+  },
+  {
+    "title": "Kodaikanal",
+    "content": "A misty hill station in Tamil Nadu known as the 'Princess of Hill Stations'."
+  },
+  {
+    "title": "Coonoor",
+    "content": "A quaint hill station near Ooty in Tamil Nadu, perfect for tea garden walks."
+  },
+  {
+    "title": "Lonavala",
+    "content": "A popular monsoon getaway from Mumbai and Pune known for greenery and waterfalls."
+  }
+]

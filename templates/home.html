@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>AI Travel Planner</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div class="container">
+        <h2>Plan Your Trip</h2>
+        <form method="post" action="/plan">
+            <input type="text" name="city" placeholder="Enter city (e.g., Jaipur)" required>
+            <input type="text" name="interests" placeholder="Enter interests (comma separated)" required>
+            <button type="submit">Generate Itinerary</button>
+        </form>
+
+        {% if itinerary %}
+        <div class="result-box">
+            <h3>Itinerary for {{ city }}</h3>
+            <p><strong>Interests:</strong> {{ interests }}</p>
+            <pre>{{ itinerary }}</pre>
+        </div>
+        {% endif %}
+    </div>
+</body>
+</html>

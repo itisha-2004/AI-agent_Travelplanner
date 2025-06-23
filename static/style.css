@@ -1,0 +1,25 @@
+body {
+    background: #f0f8ff;
+    font-family: 'Arial';
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.container {
+    background: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 15px #ccc;
+}
+input, button {
+    padding: 10px;
+    margin: 10px 0;
+    width: 100%;
+}
+.result-box {
+    background: #e0f7fa;
+    padding: 15px;
+    border-radius: 8px;
+    margin-top: 20px;
+}
